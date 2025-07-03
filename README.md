@@ -37,5 +37,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madmaxh2006&show_icons=true&locale=en&layout=compact" alt="madmaxh2006" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madmaxh2006&show_icons=true&locale=en" alt="madmaxh2006" /></p>
-
-![Snake animation](https://github.com/madmaxH2006/madmaxH2006/blob/output/github-contribution-grid-snake.svg)
