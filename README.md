@@ -38,7 +38,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madmaxh2006&show_icons=true&locale=en" alt="madmaxh2006" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madmaxh2006&" alt="madmaxh2006" /></p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+![Snake animation](https://github.com/madmaxH2006/madmaxH2006/blob/output/github-contribution-grid-snake.svg)
