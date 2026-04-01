@@ -17,4 +17,15 @@
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
 </div>
 
+<h2 align="center">🖥️ Live Terminal</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=900&color=00FF00&background=00000000&center=true&vCenter=true&width=800&lines=$+booting+system...;$+loading+modules...;$+whoami;>+cybersec+enthusiast;$+sudo+nmap+-sS+target;$+inject+payload...;[✔]+Access+Granted">
+</p>
+
+```bash
+$ echo "Initializing secure shell..."
+$ ./run_exploit.sh
+$ exit
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
